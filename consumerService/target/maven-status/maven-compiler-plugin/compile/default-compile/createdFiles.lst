@@ -1,0 +1,7 @@
+com\benz\consumer\request\validator\ConsumerRequestValidator.class
+com\benz\consumer\request\service\ConsumerRequestService.class
+com\benz\consumer\request\service\impl\ConsumerRequestServiceImpl.class
+com\benz\consumer\request\controller\ConsumerRequestController.class
+com\benz\consumer\request\model\FileDataDTO.class
+com\benz\consumer\request\ConsumerServiceApplication.class
+com\benz\consumer\request\configuration\JmsConfig.class
